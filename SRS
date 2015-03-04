@@ -1,0 +1,30 @@
+- Input : un .srt en ingles (archivo de subtitulos)
+- Output : muestra las palabras en ingles que no estan en el diccionario personal con sus respectivas definiciones.
+- Output 2 : modificar el subtitulo para agregar arriba la definicion de la palabra que todavia no se. Mucho mas rapido que tener que verlas en otro archivo o tener que pausar la pelicula.
+
+La idea es que trabaje con algun diccionario online para retrievear las palabras. Ademas al principio voy a tener que guardar todas las palabras que no conozco de varios capitulos y despues de esos archivos de subtitulos filtrar las que ya conozco (al principio van a ser muchas) para agregarlas al diccionario.
+
+Usar python con nltk que ya tiene soporte para ingles. Ademas me va a ayudar a solamente filtrar palabras relevantes, no conjunciones, articulos, etc.
+
+Extra: hacer una interfaz para el diccionario, cosa de buscar alguna palabra que no recordemos de forma facil.
+
+Work Flow: 
+
+Input --> Subtitle.srt 
+                |
+          1- parsear subtitle.srt 
+                |
+          2- parsear el tiempo de aparicion
+                |
+          3- encontrar el texto relacionado a ese tiempo 
+                |
+          4- tokenizar y normalizar palabras 
+                |
+          5- si la palabra no es articulo, pronombre, conjuncion, interjeccion, fijarse si esta en el diccionario
+                |
+          6- si no esta, buscar online la definicion, y agregar esa definicion al subtitulo en el tiempo correspontiente (preferentemente arriba de la pantalla).
+                |
+          7- guardar el stream como un nuevo subtitulo 
+
+1- Parsear subtitle: 
+Distinguir entre los tiempos y el texto del subtitulo. Guardarlos en alguna estructura de datos para acceder facilmente (un array sobra)
