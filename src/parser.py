@@ -5,14 +5,16 @@ class Parser(object):
     of appearance of each text and the text itself, respectively.
     """
     def __init__(self, subtitle=""):
-        self.subtitle = subtitle
+        self.subtitle = subtitle  # raw text containing all the subtitles
         self.times = []
         self.text = []
 
-    def parse(self):
+    def parse(self, text):
+        self.times = self.times[:]
+        self.text = self.text[:]
         return
 
-    def get_times():
+    def get_times(self):
         return self.times
 
     def get_text(self):

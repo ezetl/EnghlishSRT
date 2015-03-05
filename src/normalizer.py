@@ -25,5 +25,5 @@ class Normalizer(object):
         self.filter_tags()
         self.lemmatize()
 
-    def get_final_lemmas(self):
+    def get_lemmas(self):
         return self.lemmas

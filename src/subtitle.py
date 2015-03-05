@@ -17,3 +17,6 @@ class Subtitle(object):
     def save(self):
         with open(self.filename, 'w') as f:
             f.write(self.final_text)
+
+    def get_subtitle(self):
+        return self.final_text
