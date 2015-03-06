@@ -1,3 +1,6 @@
+import codecs
+
+
 class Subtitle(object):
     """
     This is the new subtitle that has to be saved.
@@ -11,11 +14,14 @@ class Subtitle(object):
         self.lemmas = lemmas
         self.filename = filename
 
+    def look_definitions(self):
+        return
+
     def create_subtitle(self):
         return
 
     def save(self):
-        with open(self.filename, 'w') as f:
+        with codecs.open(self.filename, 'w', encoding='utf8') as f:
             f.write(self.final_text)
 
     def get_subtitle(self):
