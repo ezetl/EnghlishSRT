@@ -1,5 +1,6 @@
 import os
 import sys
+import codecs
 from parser import Parser
 from normalizer import Normalizer
 from filter import Filter
@@ -15,7 +16,7 @@ def main(in_subt, out_subt):
     lemma_filter = Filter()
 
     try:
-        f = open(in_subt, 'r')
+        f = codecs.open(in_subt, 'r', encoding='utf8')
         text = f.read()
         f.close()
     except IOError:
@@ -24,6 +25,7 @@ def main(in_subt, out_subt):
     parser.parse(text)
     normalizer.normalize(parser.get_text())
     lemma_filter.clean_lemmas(normalizer.get_lemmas())
+
     new_sub = Subtitle(parser.get_times(), parser.get_text(),
                        lemma_filter.get_final_lemmas(), out_subt)
     new_sub.create_subtitle()
