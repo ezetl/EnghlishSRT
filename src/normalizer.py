@@ -11,7 +11,7 @@ class Normalizer(object):
         self.lemmas = []
 
     def tokenize(self, list_subs):
-        for elem in subs:
+        for elem in list_subs:
             self.tokens.append(word_tokenize(elem))
 
     def do_pos_tag(self):
@@ -24,7 +24,7 @@ class Normalizer(object):
         for elem in self.pos_tags:
             w = []
             for tag in elem:
-                if tag[1] in ['ADJ','ADV','NOUN','VERB']:
+                if tag[1] in ['ADJ', 'ADV', 'NOUN', 'VERB']:
                     w.append(tag[0])
             self.words.append(w)
 
@@ -34,7 +34,6 @@ class Normalizer(object):
             for word in elem:
                 lem.append(self.lemmatizer.lemmatize(word))
             self.lemmas.append(lem)
-
 
     def normalize(self, list_subs):
         self.tokenize(list_subs)
