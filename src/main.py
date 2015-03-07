@@ -29,7 +29,6 @@ def main(in_subt, out_subt):
     new_sub = Subtitle(parser.get_times(), parser.get_text(),
                        lemma_filter.get_final_lemmas(), out_subt)
     new_sub.create_subtitle()
-    new_sub.save()
 
 
 if __name__ == "__main__":
