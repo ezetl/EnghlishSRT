@@ -23,10 +23,12 @@ class Filter(object):
     def clean_lemmas(self, lemmas):
         self.lemmas = self.lemmas[:]
         keys = self.dict.keys()
+        # lemmas is a list of lists of (lemma, pos_tag)
         for elem in lemmas:
             final_lemmas = []
             for w in elem:
-                if w not in keys:
+                # example: cat.n, because cat is a Noun (n)
+                if w[0]+'.'+w[1] not in keys:
                     final_lemmas.append(w)
             self.lemmas.append(final_lemmas)
 

@@ -9,6 +9,8 @@ class Normalizer(object):
         self.pos_tags = []
         self.words = []
         self.lemmas = []
+        # this is useful to use wordnet later on
+        self.tags = {'ADJ':'a', 'ADV':'r', 'NOUN':'n', 'VERB':'v'}
 
     def tokenize(self, list_subs):
         for elem in list_subs:
@@ -24,15 +26,15 @@ class Normalizer(object):
         for elem in self.pos_tags:
             w = []
             for tag in elem:
-                if tag[1] in ['ADJ', 'ADV', 'NOUN', 'VERB']:
-                    w.append(tag[0])
+                if tag[1] in self.tags.keys():
+                    w.append(tag)
             self.words.append(w)
 
     def lemmatize(self):
         for elem in self.words:
             lem = []
             for word in elem:
-                lem.append(self.lemmatizer.lemmatize(word))
+                lem.append(self.lemmatizer.lemmatize(word[0]), tags[word[1]])
             self.lemmas.append(lem)
 
     def normalize(self, list_subs):
