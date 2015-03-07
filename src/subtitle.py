@@ -41,11 +41,15 @@ class Subtitle(object):
             s += self.times[i] + u'\r\n'
             if self.new_defs[i]:
                 for d in self.new_defs[i]:
-                    s += u'{\a10}' + d[0] + u' : ' + d[1] + u'\r\n'
+                    s += '{\\an10} <font color="#191975"><i>' +\
+                        d[0].split('.')[0] + '</i> : ' + d[0].split('.')[1] + \
+                        '. ' + d[1] + '</font>\r\n'
             s += self.text[i] + u'\r\n\r\n'
 
         with codecs.open(self.filename, 'w', encoding='utf8') as f:
             f.write(s)
+
+#        self.update_dict()
 
     def update_dict(self):
         for elem in self.new_defs:
