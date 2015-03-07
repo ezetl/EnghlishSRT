@@ -49,7 +49,7 @@ class Subtitle(object):
         with codecs.open(self.filename, 'w', encoding='utf8') as f:
             f.write(s)
 
-#        self.update_dict()
+        self.update_dict()
 
     def update_dict(self):
         for elem in self.new_defs:

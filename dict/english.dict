@@ -1,67 +1,782 @@
-arousal.n:the act of arousing
-decay.n:the process of gradually becoming inferior
-fixture.n:an object firmly fixed in place (especially in a household)
-peel.n:British politician (1788-1850)
-disclosure.n:the speech act of making something evident
-kennel.n:outbuilding that serves as a shelter for a dog
-pasture.n:a field covered with grass or herbage and suitable for grazing by livestock
-filthy.a:disgustingly dirty; filled or smeared with offensive matter
-gossip.n:light informal conversation for social occasions
-miscarriage.n:failure of a plan
-cope.n:brick that is laid sideways at the top of a wall
-evildoer.n:a person who sins (without repenting)
-kindergarten.n:a preschool for children age 4 to 6 to prepare them for primary school
-toss.n:the act of flipping a coin
-dump.n:a coarse term for defecation
-prude.n:a person excessively concerned about propriety and decorum
-steer.n:an indication of potential opportunity
-square.n:(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon
-clap.n:a sudden very loud noise
-gather.n:sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching
-subtlety.n:a subtle difference in meaning or opinion or attitude
-heavy-handed.a:lacking physical movement skills, especially with the hands
-cheerfully.r:in a cheerful manner
-willingly.r:in a willing manner
-anxiety.n:(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic
-brotherly.r:(archaic as adverb) in a brotherly manner
-wildly.r:to an extreme or greatly exaggerated degree
-shrink.v:wither, as with a loss of moisture
-ipecac.n:a medicinal drug used to evoke vomiting (especially in cases of drug overdose or poisoning)
-unfaithful.a:not true to duty or obligation or promises
-sucker.n:a person who is gullible and easy to take advantage of
-penance.n:remorse for your past conduct
-cherub.n:a sweet innocent baby
-crumb.n:a very small quantity of something
-delight.n:a feeling of extreme pleasure or satisfaction
-reenactment.n:performing a role in an event that occurred at an earlier time
-faucet.n:a regulator for controlling the flow of a liquid from a reservoir
-handiwork.n:a work produced by hand labor
-treat.n:something considered choice to eat
-realtor.n:a real estate agent who is a member of the National Association of Realtors
-poker.n:fire iron consisting of a metal rod with a handle; used to stir a fire
-magpie.n:long-tailed black-and-white crow that utters a raucous chattering call
-stash.n:a secret store of valuables or money
-rot.n:a state of decay usually accompanied by an offensive odor
-sliver.n:a small thin sharp bit or wood or glass or metal
-branch.n:a division of some larger or more complex organization
-stain.n:a soiled or discolored appearance
-outfit.n:any cohesive unit such as a military company
-prance.n:a proud stiff pompous gait
-aside.n:a line spoken by an actor to the audience but not intended for others on the stage
-lawsuit.n:a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy
-bust.n:a complete failure
-haunt.n:a frequently visited place
-coffin.n:box in which a corpse is buried or cremated
-petty.n:larceny of property having a value less than some amount (the amount varies by locale)
-havoc.n:violent and needless disturbance
-faint.n:a spontaneous loss of consciousness caused by insufficient blood to the brain
-grief.n:intense sorrow caused by loss of a loved one (especially by death)
-brick.n:rectangular block of clay baked by the sun or in a kiln; used as a building or paving material
-gazebo.n:a small roofed building affording shade and rest
-lounge.n:an upholstered seat for more than one person
-hum.n:the state of being or appearing to be actively engaged in an activity
-cicada.n:stout-bodied insect with large membranous wings; male has drum-like organs for producing a high-pitched drone
-wainscot.n:panel forming the lower part of an interior wall when it is finished differently from the rest of the wall
-chandelier.n:branched lighting fixture; often ornate; hangs from the ceiling
-rise.n:a growth in strength or number or importance
-mistress.n:an adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man
+die.v: pass from physical life and lose all bodily attributes and functions necessary to sustain life
+ask.v: inquire about
+return.n: document giving the tax collector information about the taxpayer's tax liability
+out.r: away from home
+boob.n: an ignorant or foolish person
+day.n: time for Earth to make a complete rotation on its axis
+mad.a: roused to anger
+patient.n: a person who requires medical care
+Really.r: in accordance with truth or fact or reality
+baby.n: a very young child (birth to 1 year) who has not yet begun to walk or talk
+sheet.n: any broad thin expanse or surface
+shit.n: obscene terms for feces
+treatment.n: care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)
+lawsuit.n: a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy
+lobster.n: flesh of a lobster
+na.n: a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)
+fellow.n: a boy or man
+havoc.n: violent and needless disturbance
+smart.n: a kind of pain such as that caused by a wound or a burn or a sore
+movie.n: a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement
+plastic.a: capable of being molded or modeled (especially of earth or clay or other soft material)
+break.v: terminate
+deep.n: the central and most intense or profound part
+coke.n: carbon fuel produced by distillation of coal
+angrily.r: with anger
+listen.v: hear with intention
+cicada.n: stout-bodied insect with large membranous wings; male has drum-like organs for producing a high-pitched drone
+gazebo.n: a small roofed building affording shade and rest
+nudity.n: the state of being without clothing or covering of any kind
+guy.n: an informal term for a youth or man
+interesting.a: arousing or holding the attention
+fabulous.a: extremely pleasing
+dream.n: a series of mental images and emotions occurring during sleep
+wind.v: to move or cause to move in a sinuous, spiral, or circular course
+end.n: either extremity of something that has length
+drug.n: a substance that is used as a medicine or narcotic
+homicide.n: the killing of a human being by another human being
+owner.n: (law) someone who owns (is legal possessor of) a business
+Sure.r: definitely or positively (`sure' is sometimes used informally for `surely')
+sit.v: be seated
+purebred.n: a pedigreed animal of unmixed lineage; used especially of horses
+fact.n: a piece of information about circumstances that exist or events that have occurred
+cool.n: the quality of being at a refreshingly low temperature
+So.r: to a very great extent or degree
+have.v: have or possess, either in a concrete or an abstract sense
+history.n: the aggregate of past events
+son.n: a male human offspring
+generation.n: all the people living at the same time or of approximately the same age
+Short.a: primarily temporal sense; indicating or being or seeming to be limited in duration
+Guess.n: a message expressing an opinion based on incomplete evidence
+bully.n: a cruel and brutal fellow
+gossip.n: light informal conversation for social occasions
+noble.a: impressive in appearance
+intruder.n: someone who intrudes on the privacy or property of another without permission
+handle.v: be in charge of, act on, or dispose of
+lightly.r: without good reason
+reason.n: a rational motive for a belief or action
+promise.v: make a promise or commitment
+need.v: require as useful, just, or proper
+better.a: (comparative of `good') superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability; more highly skilled than another
+react.v: show a response or a reaction to something
+classmate.n: an acquaintance that you go to school with
+remember.v: recall knowledge from memory; have a recollection
+smoke.v: inhale and exhale smoke from cigarettes, cigars, pipes
+help.n: the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose
+classic.a: of recognized authority or excellence
+door.n: a swinging or sliding barrier that will close the entrance to a room or building or vehicle
+get.v: come into the possession of something concrete or abstract
+Never.r: not ever; at no time in the past or future
+bunch.n: a grouping of a number of similar things
+word.n: a unit of language that native speakers can identify
+magpie.n: long-tailed black-and-white crow that utters a raucous chattering call
+fix.v: restore by replacing a part or putting together what is torn or broken
+stop.v: come to a halt, stop moving
+solution.n: a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution
+vinegar.n: sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food preservative
+tell.n: a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)
+look.v: perceive with attention; direct one's gaze towards
+pull.v: cause to move by pulling
+recently.r: in the recent past
+wife.n: a married woman; a man's partner in marriage
+Certainly.r: definitely or positively (`sure' is sometimes used informally for `surely')
+wrong.a: not correct; not in conformity with fact or truth
+grief.n: intense sorrow caused by loss of a loved one (especially by death)
+member.n: one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+sigh.n: an utterance made by exhaling audibly
+hum.n: the state of being or appearing to be actively engaged in an activity
+dangerous.a: involving or causing danger or risk; liable to hurt or harm
+father.n: a male parent (also used as a term of address to your father)
+crazy.n: someone deranged and possibly dangerous
+here.r: in or at this place; where the speaker or writer is
+cricket.n: leaping insect; male makes chirping noises by rubbing the forewings together
+many.a: a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number
+Even.r: used as an intensive especially to indicate something unexpected
+Lately.r: in the recent past
+affair.n: a vaguely specified concern
+grandmother.n: the mother of your father or mother
+horror.n: intense and profound fear
+cartoon.n: a humorous or satirical drawing published in a newspaper or magazine
+excuse.n: a defense of some offensive behavior or some failure to keep a promise etc.
+suck.v: draw into the mouth by creating a practical vacuum in the mouth
+like.v: prefer or wish to do something
+society.n: an extended social group having a distinctive cultural and economic organization
+floorboard.n: a board in the floor
+home.v: provide with, or send to, a home
+scream.n: sharp piercing cry
+as.n: a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar
+crazy.a: affected with madness or insanity
+long.a: primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified
+key.a: serving as an essential component
+faucet.n: a regulator for controlling the flow of a liquid from a reservoir
+living.n: the experience of being alive; the course of human events and activities
+attack.n: (military) an offensive against an enemy (using weapons)
+time.n: an instance or single occasion for some event
+short.a: primarily temporal sense; indicating or being or seeming to be limited in duration
+answer.n: a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation
+psychologist.n: a scientist trained in psychology
+ill.a: affected by an impairment of normal physical or mental function
+mess.n: a state of confusion and disorderliness
+world.n: everything that exists anywhere
+born.n: British nuclear physicist (born in Germany) honored for his contributions to quantum mechanics (1882-1970)
+teacher.n: a person whose occupation is teaching
+soon.r: in the near future
+medical.a: relating to the study or practice of medicine
+lie.v: be located or situated somewhere; occupy a certain position
+wall.n: an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure
+dump.n: a coarse term for defecation
+talk.v: exchange thoughts; talk with
+designer.n: a person who specializes in designing architectural interiors and their furnishings
+meet.v: come together
+surprise.v: cause to be surprised
+evil.a: morally bad or wrong
+dryer.n: an appliance that removes moisture
+finger.n: any of the terminal members of the hand (sometimes excepting the thumb)
+dead.n: people who are no longer living
+least.a: the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree
+personal.a: concerning or affecting a particular person or his or her private life and personality
+show.n: the act of publicly exhibiting or entertaining
+course.n: education imparted in a series of lessons or meetings
+honey.n: a sweet yellow liquid produced by bees
+someone.n: a human being
+bake.v: cook and make edible by putting in a hot oven
+keep.v: keep in a certain state, position, or activity; e.g., "keep clean"
+sorry.a: feeling or expressing regret or sorrow or a sense of loss over something done or undone
+difference.n: the quality of being unlike or dissimilar
+dog.n: a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+sense.n: a general conscious awareness
+face.n: the front of the human head from the forehead to the chin and ear to ear
+laughter.n: the sound of laughing
+bring.v: take something or somebody with oneself somewhere
+organ.n: a fully differentiated structural and functional unit in an animal that is specialized for some particular function
+test.n: trying something to find out about it
+throw.v: propel through the air
+way.n: how something is done or how it happens
+real.a: being or occurring in fact or actuality; having verified existence; not illusory; not ghosts"
+CONSTANCE.n: a lake in southeastern Germany on the northern side of the Swiss Alps; forms part of the Rhine River
+penance.n: remorse for your past conduct
+control.n: power to direct or determine
+same.a: same in identity
+let.n: a brutal terrorist group active in Kashmir; fights against India with the goal of restoring Islamic rule of India
+common.a: belonging to or participated in by a community as a whole; public
+take.v: carry out
+few.a: a quantifier that can be used with count nouns and is often preceded by `a'; a small but indefinite number
+need.n: a condition requiring relief
+kill.v: cause to die; put to death, usually intentionally or knowingly
+boat.n: a small vessel for travel on water
+transcript.n: something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech
+early.r: during an early stage
+teaching.n: the profession of a teacher
+social.a: relating to human society and its members
+service.n: work done by one person or group that benefits another
+makeup.n: cosmetics applied to the face to improve or change your appearance
+combination.n: a collection of things that have been combined; an assemblage of separate parts or qualities
+square.n: (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon
+Last.a: immediately past
+woman.n: an adult female person (as opposed to a man)
+foundation.n: the basis on which something is grounded
+kill.n: the act of terminating a life
+naturally.r: as might be expected
+hit.v: cause to move by striking
+second.a: coming next after the first in position in space or time or degree or magnitude
+carry.v: move while supporting, either in a vehicle or in one's hands or on one's body
+jail.n: a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)
+street.n: a thoroughfare (usually including sidewalks) that is lined with buildings
+sex.v: stimulate sexually
+wait.v: stay in one place and anticipate or expect something
+find.n: a productive insight
+honk.n: the cry of a goose (or any sound resembling this)
+dad.n: an informal term for a father; probably derived from baby talk
+rise.n: a growth in strength or number or importance
+trustworthy.a: worthy of trust or belief
+gossip.v: wag one's tongue; speak about others and reveal secrets or intimacies
+already.r: prior to a specified or implied time
+shithead.n: a stupid person; these words are used to express a low opinion of someone's intelligence
+horribly.r: of a dreadful kind
+live.v: inhabit or live in; be an inhabitant of
+brutal.a: (of persons or their actions) able or disposed to inflict pain or suffering
+cook.n: someone who cooks food
+truly.r: in accordance with truth or fact or reality
+metal.n: any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.
+appreciate.v: recognize with gratitude; be grateful for
+sorrow.n: an emotion of great sadness associated with loss or bereavement
+kid.n: a young person of either sex
+go.v: change location; move, travel, or proceed, also metaphorically
+bed.v: furnish with a bed
+spirit.n: the vital principle or animating force within living things
+crime.n: (criminal law) an act punishable by law; usually considered an evil act
+lounge.n: an upholstered seat for more than one person
+institution.n: an organization founded and united for a specific purpose
+different.a: unlike in nature or quality or form or degree
+brick.n: rectangular block of clay baked by the sun or in a kiln; used as a building or paving material
+doctor.n: a licensed medical practitioner
+truth.n: a fact that has been verified
+target.v: intend (something) to move towards a certain goal
+shout.n: a loud utterance; often in protest or opposition
+freak.n: a person or animal that is markedly unusual or deformed
+blood.n: the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets
+nothing.n: a quantity of no importance
+kind.n: a category of things distinguished by some common characteristic or quality
+still.r: with reference to action or condition; without change, interruption, or cessation
+make.v: engage in
+MAN.n: an adult person who is male (as opposed to a woman)
+Get.n: a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent
+not.r: negation of a word or group of words
+violence.n: an act of aggression (as one against a person who resists)
+screen.n: a white or silvered surface where pictures can be projected for viewing
+case.n: an occurrence of something
+scare.n: sudden mass fear and anxiety over anticipated events
+petty.n: larceny of property having a value less than some amount (the amount varies by locale)
+pain.v: cause bodily suffering to and make sick or indisposed
+cherub.n: a sweet innocent baby
+snap.n: the act of catching an object with the hands
+miscarriage.n: failure of a plan
+ball.n: round object that is hit or thrown or kicked in games
+look.n: the feelings expressed on a person's face
+daughter.n: a female human offspring
+want.v: feel or have a desire for; want strongly
+cleansing.n: the act of making something clean
+hero.n: a man distinguished by exceptional courage and nobility and strength
+haunt.n: a frequently visited place
+spit.n: a narrow strip of land that juts out into the sea
+advice.n: a proposal for an appropriate course of action
+girl.n: a young woman
+exactly.r: indicating exactness or preciseness
+thing.n: a special situation
+tile.n: a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces
+see.v: perceive by sight or have the power to perceive by sight
+slumber.n: a natural and periodic state of rest during which consciousness of the world is suspended
+fantasy.n: imagination unrestricted by reality
+lately.r: in the recent past
+mean.v: mean or intend to express or convey
+light.v: make lighter or brighter
+prance.n: a proud stiff pompous gait
+sexy.a: marked by or tending to arouse sexual desire or interest
+earring.n: jewelry to ornament the ear; usually clipped to the earlobe or fastened through a hole in the lobe
+bullet.n: a projectile that is fired from a gun
+sliver.n: a small thin sharp bit or wood or glass or metal
+Too.r: to a degree exceeding normal or proper limits
+happy.a: enjoying or showing or marked by joy or pleasure
+side.n: a place within a region identified relative to a center or reference location
+actually.r: in actual fact
+empty-handed.a: having acquired or gained nothing
+prude.n: a person excessively concerned about propriety and decorum
+heavy-handed.a: lacking physical movement skills, especially with the hands
+flatly.r: in an unqualified manner
+coffin.n: box in which a corpse is buried or cremated
+Oil.n: a slippery or viscous liquid or liquefiable substance not miscible with water
+secret.n: something that should remain hidden from others (especially information that is not to be passed on)
+age.n: how long something has existed
+evidence.n: your basis for belief or disbelief; knowledge on which to base belief
+kennel.n: outbuilding that serves as a shelter for a dog
+period.n: an amount of time
+suck.n: the act of sucking
+find.v: come upon, as if by accident; meet with
+point.n: a geometric element that has position but no extension
+ever.r: at any time
+boy.n: a youthful male person
+office.n: place of business where professional or clerical duties are performed
+mom.n: informal terms for a mother
+give.v: cause to have, in the abstract sense or physical sense
+never.r: not ever; at no time in the past or future
+young.a: (used of living things especially persons) in an early period of life or development or growth
+reenactment.n: performing a role in an event that occurred at an earlier time
+price.n: the property of having material worth (often indicated by the amount of money something would bring if sold)
+professor.n: someone who is a member of the faculty at a college or university
+worst.a: (superlative of `bad') most wanting in quality or value or condition
+quit.v: put an end to a state or an activity
+also.r: in addition
+too.r: to a degree exceeding normal or proper limits
+get.n: a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent
+vertically.r: in a vertical direction
+terrify.v: fill with terror; frighten greatly
+soap.n: a cleansing agent made from the salts of vegetable or animal fats
+diamond.n: a transparent piece of diamond that has been cut and polished and is valued as a precious gem
+instead.r: in place of, or as an alternative to
+tape.v: fasten or attach with tape
+house.v: contain or cover
+gather.n: sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching
+hear.v: perceive (sound) via the auditory sense
+twin.n: either of two offspring born at the same time from the same pregnancy
+cool.a: neither warm nor very cold; giving relief from heat
+police.n: the force of policemen and officers
+arm.n: a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb
+country.n: a politically organized body of people under a single government
+little.r: not much
+brown.n: an orange of low brightness and saturation
+regret.n: sadness associated with some wrong done or some disappointment
+weird.a: suggesting the operation of supernatural influences
+old.a: (used especially of persons) having lived for a relatively long time or attained a specific age
+wood.n: the hard fibrous lignified substance under the bark of trees
+coke.v: become coke
+creativity.n: the ability to create
+report.v: to give an account or representation of in words
+food.n: any substance that can be metabolized by an animal to give energy and build tissue
+only.r: and nothing more
+pet.n: a domesticated animal kept for companionship or amusement
+floor.n: the inside lower horizontal surface (as of a room, hallway, tent, or other structure)
+saw.v: cut with a saw
+issue.n: an important question that is in dispute and must be settled
+stick.n: an implement consisting of a length of wood
+skip.v: bypass
+hot.a: used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning
+seriously.r: in a serious manner
+really.r: in accordance with truth or fact or reality
+ranch.n: farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle)
+smell.v: inhale the odor of; perceive by the olfactory sense
+People.n: (plural) any group of human beings (men or women or children) collectively
+room.n: an area within a building enclosed by walls and floor and ceiling
+Money.n: the most common medium of exchange; functions as legal tender
+car.n: a motor vehicle with four wheels; usually propelled by an internal combustion engine
+nervous.a: easily agitated
+arousal.n: the act of arousing
+stylish.a: having elegance or taste or refinement in manners or dress
+drown.v: cover completely or make imperceptible
+cab.n: a compartment at the front of a motor vehicle or locomotive where driver sits
+enough.a: sufficient for the purpose
+tomorrow.n: the day after today
+chemical.a: relating to or used in chemistry
+run.v: move fast by using one's feet, with one foot off the ground at any given time
+free.a: able to act at will; not hampered; not under compulsion or restraint
+bad.a: having undesirable or negative qualities
+bit.n: a small piece or quantity of something
+morning.n: the time period between dawn and noon
+eat.v: take in solid food
+touch.v: make physical contact with, come in contact with
+cope.n: brick that is laid sideways at the top of a wall
+pain.n: a symptom of some physical hurt or disorder
+opinion.n: a personal belief or judgment that is not founded on proof or certainty
+nipple.n: the small projection of a mammary gland
+beautiful.a: delighting the senses or exciting intellectual or emotional admiration
+okay.n: an endorsement
+mean.a: approximating the statistical norm or average or expected value
+once.r: on one occasion
+saddle.n: a seat for the rider of a horse or camel
+hold.n: the act of grasping
+state.n: the territory occupied by one of the constituent administrative districts of a nation
+stay.v: stay the same; remain in a certain state
+high.a: greater than normal in degree or intensity or amount
+labor.n: a social class comprising those who do manual labor or work for wages
+couple.n: a pair who associate with one another
+willingly.r: in a willing manner
+regular.a: in accordance with fixed order or procedure or principle
+psychotic.n: a person afflicted with psychosis
+treat.n: something considered choice to eat
+exact.a: marked by strict and particular and complete accordance with fact
+story.n: a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
+please.v: give pleasure to or be pleasing to
+housekeeper.n: a servant who is employed to perform domestic task in a household
+asshole.n: insulting terms of address for people who are stupid or irritating or ridiculous
+maid.n: a female domestic
+one.n: the smallest whole number or a numeral representing this number
+tonight.n: the present or immediately coming night
+study.n: a detailed critical inspection
+rejection.n: the act of rejecting something
+ta.n: a hard grey lustrous metallic element that is highly resistant to corrosion; occurs in niobite and fergusonite and tantalite
+part.n: something determined in relation to something that includes it
+chandelier.n: branched lighting fixture; often ornate; hangs from the ceiling
+ago.r: in the past
+Now.r: in the historical present; at this point in the narration of a series of past events
+pasture.n: a field covered with grass or herbage and suitable for grazing by livestock
+anxiety.n: (psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic
+ipecac.n: a medicinal drug used to evoke vomiting (especially in cases of drug overdose or poisoning)
+away.r: from a particular thing or place or position (`forth' is obsolete)
+neighborhood.n: a surrounding or nearby region
+transfer.v: transfer somebody to a different position or location of work
+down.r: spatially or metaphorically from a higher to a lower level or position
+brotherly.r: (archaic as adverb) in a brotherly manner
+branch.n: a division of some larger or more complex organization
+address.n: (computer science) the code that identifies where a piece of information is stored
+more.a: (comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree
+trust.n: something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)
+filthy.a: disgustingly dirty; filled or smeared with offensive matter
+maybe.r: by chance
+Just.r: and nothing more
+think.v: judge or regard; look upon; judge
+little.a: limited or below average in number or quantity or magnitude or extent
+up.r: spatially or metaphorically from a lower to a higher position
+dick.n: someone who is a detective
+interrogator.n: a questioner who is excessively harsh
+Pretty.r: to a moderately sufficient extent or degree
+hopeless.a: without hope because there seems to be no possibility of comfort or success
+dead.a: no longer having or seeming to have or expecting to have life
+stash.n: a secret store of valuables or money
+gun.n: a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)
+hurt.v: be the source of pain
+star.n: (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior
+other.a: not the same one or ones already mentioned or implied
+vomit.n: the matter ejected in vomiting
+softly.r: with low volume
+neighbor.n: a person who lives (or is located) near another
+understand.v: know and comprehend the nature or meaning of
+night.n: the time after sunset and before sunrise while it is dark outside
+cope.v: come to terms with
+let.v: make it possible through a specific action or lack of action for something to happen
+feeling.n: the experiencing of affective and emotional states
+outfit.n: any cohesive unit such as a military company
+minute.n: a unit of time equal to 60 seconds or 1/60th of an hour
+understanding.n: the cognitive condition of someone who understands
+character.n: an imaginary person represented in a work of fiction (play or film or story)
+month.n: one of the twelve divisions of the calendar year
+big.a: above average in size or number or quantity or magnitude or extent
+lavatory.n: a room or building equipped with one or more toilets
+clap.n: a sudden very loud noise
+adore.v: love intensely
+step.n: any maneuver made as part of progress toward a goal
+then.r: subsequently or soon afterward (often used as sentence connectors)
+continue.v: continue a certain state, condition, or activity
+nice.a: pleasant or pleasing or agreeable in nature or appearance
+chance.n: a possibility due to a favorable combination of circumstances
+mouth.n: the opening through which food is taken in and vocalizations emerge
+unfaithful.a: not true to duty or obligation or promises
+tolerable.a: capable of being borne or endured
+stitch.v: fasten by sewing; do needlework
+great.a: relatively large in size or number or extent; larger than others of its kind
+go.n: a time for working (after which you will be relieved by someone else)
+wear.v: be dressed in
+first.a: preceding all others in time or space or degree
+aside.n: a line spoken by an actor to the audience but not intended for others on the stage
+rot.n: a state of decay usually accompanied by an offensive odor
+chimney.n: a vertical flue that provides a path through which smoke from a fire is carried away through the wall or roof of a building
+use.v: put into service; make work or employ for a particular purpose or for its inherent or natural purpose
+belong.v: be owned by; be in the possession of
+pregnant.a: carrying developing offspring within the body or being about to produce new life
+hormone.n: the secretion of an endocrine gland that is transmitted by the blood to the tissue on which it has a specific effect
+younger.a: used of the younger of two persons of the same name especially used to distinguish a son from his father
+sure.a: having or feeling no doubt or uncertainty; confident and assured
+Helter-skelter.a: lacking a visible order or organization
+jar.n: a vessel (usually cylindrical) with a wide mouth and without handles
+full.a: containing as much or as many as is possible or normal
+phone.n: electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds
+bitch.n: an unpleasant difficulty
+patrol.n: a detachment used for security or reconnaissance
+guy.v: subject to laughter or ridicule
+chuckle.n: a soft partly suppressed laugh
+clear.v: rid of obstructions
+lobsterman.n: a person whose occupation is catching lobsters
+tree.n: a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms
+Nothing.n: a quantity of no importance
+trip.n: a journey for some purpose (usually including the return)
+dork.n: a dull stupid fatuous person
+funeral.n: a ceremony at which a dead person is buried or cremated
+electric.a: using or providing or producing or transmitting or operated by electricity
+man.n: an adult person who is male (as opposed to a woman)
+lesson.n: a unit of instruction
+steer.n: an indication of potential opportunity
+third.a: coming next after the second and just before the fourth in position
+memory.n: something that is remembered
+new.a: not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered
+faint.n: a spontaneous loss of consciousness caused by insufficient blood to the brain
+evildoer.n: a person who sins (without repenting)
+come.v: move toward, travel toward something or somebody or approach something or somebody
+very.r: used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal
+Most.a: (superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number
+okay.v: give sanction to
+so.r: to a very great extent or degree
+rule.n: a principle or condition that customarily governs behavior
+walk.v: use one's feet to advance; advance by steps
+worse.a: (comparative of `bad') inferior to another in quality or condition or desirability
+important.a: of great significance or value
+pup.n: young of any of various canines such as a dog or wolf
+breath.n: the process of taking in and expelling air during breathing
+skin.n: a natural protective body covering and site of the sense of touch
+imagine.v: form a mental image of something that is not present or that is not the case
+cook.v: prepare a hot meal
+cheerfully.r: in a cheerful manner
+benevolent.a: intending or showing kindness
+perfectly.r: completely and without qualification; used informally as intensifiers
+council.n: a body serving in an administrative capacity
+miserable.a: very unhappy; full of misery
+kindergarten.n: a preschool for children age 4 to 6 to prepare them for primary school
+creation.n: the human act of creating
+deal.n: a particular instance of buying or selling
+move.n: the act of deciding to do something
+right.n: an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away"
+repulsion.n: the force by which bodies repel one another
+stain.n: a soiled or discolored appearance
+about.r: (of quantities) imprecise but fairly close to correct
+romantic.a: belonging to or characteristic of Romanticism or the Romantic Movement in the arts
+myth.n: a traditional story accepted as history; serves to explain the world view of a people
+wainscot.n: panel forming the lower part of an interior wall when it is finished differently from the rest of the wall
+clean.a: free from dirt or impurities; or having clean habits
+fixture.n: an object firmly fixed in place (especially in a household)
+pussy.a: containing pus
+rid.v: relieve from
+worse.n: something inferior in quality or condition or effect
+Indian.a: of or relating to or characteristic of India or the East Indies or their peoples or languages or cultures
+psychological.a: mental or emotional as opposed to physical in nature
+pop.n: an informal term for a father; probably derived from baby talk
+husband.n: a married man; a woman's partner in marriage
+pant.v: breathe noisily, as when one is exhausted
+cry.v: utter a sudden loud cry
+electricity.n: a physical phenomenon associated with stationary or moving electrons and protons
+regret.v: feel remorse for; feel sorry for; be contrite about
+taking.n: the act of someone who picks up or takes something
+try.v: make an effort or attempt
+town.n: an urban area with a fixed boundary that is smaller than a city
+open.a: affording unobstructed entrance and exit; not shut or closed
+peel.n: British politician (1788-1850)
+therapy.n: (medicine) the act of caring for someone (as by medication or remedial training etc.)
+lot.n: (often followed by `of') a large number or amount or extent
+easily.r: with ease (`easy' is sometimes used informally for `easily')
+help.v: give help or assistance; be of service
+special.a: unique or specific to a person or thing or category
+leave.v: go away from a place
+punish.v: impose a penalty on; inflict punishment on
+distantly.r: from or at a distance
+private.a: confined to particular persons or groups or providing privacy
+corner.n: a place off to the side of an area
+bat.n: nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate
+basement.n: the lowermost portion of a structure partly or wholly below ground level; often used for storage
+afraid.a: filled with fear or apprehension
+Hot.a: used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning
+apart.r: separated or at a distance in place or position or time
+home.n: where you live at a particular time
+hair.n: a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss
+life.n: a characteristic state or mode of living
+green.a: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass
+mongrel.n: derogatory term for a variation that is not genuine; something irregular or inferior or of dubious origin
+footstep.n: the sound of a step of someone walking
+reincarnation.n: embodiment in a new form (especially the reappearance or a person in another form)
+playing.n: the act of playing a musical instrument
+horrible.a: provoking horror
+own.a: belonging to or on behalf of a specified person (especially yourself); preceded by a possessive
+heart.n: the locus of feelings and intuitions
+take.n: the income or profit arising from such transactions as the sale of land or other property
+poker.n: fire iron consisting of a metal rod with a handle; used to stir a fire
+simply.r: and nothing more
+ceremony.n: a formal event performed on a special occasion
+feel.v: undergo an emotional sensation or be in a particular state of mind
+simple.a: having few parts; not complex or complicated or involved
+death.n: the event of dying or departure from life
+medication.n: (medicine) something that treats or prevents or alleviates the symptoms of disease
+round.n: a charge of ammunition for a single shot
+Light.n: (physics) electromagnetic radiation that can produce a visual sensation
+stop.n: the event of something ending
+sob.n: a dyspneic condition
+shut.v: move so that an opening or passage is obstructed; make shut
+do.v: engage in
+smoking.n: the act of smoking tobacco or other substances
+yet.r: up to the present time
+week.n: any period of seven consecutive days
+prepare.v: make ready or suitable or equip in advance for a particular purpose or for some use, event, etc
+previous.a: just preceding something else in time or order
+Yes.n: an affirmative
+whore.n: a woman who engages in sexual intercourse for money
+blame.v: put or pin the blame on
+move.v: change location; move, travel, or proceed, also metaphorically
+almost.r: (of actions or states) slightly short of or not quite accomplished; all but
+chemical.n: material produced by or used in a reaction involving changes in atoms or molecules
+LITTLE.r: not much
+prison.n: a correctional institution where persons are confined while on trial or for punishment
+change.v: cause to change; make different; cause a transformation
+afternoon.n: the part of the day between noon and evening
+believe.v: accept as true; take to be true
+scoff.n: showing your contempt by derision
+party.n: an organization to gain political power
+bug.n: general term for any insect or similar creeping or crawling invertebrate
+decay.n: the process of gradually becoming inferior
+toss.n: the act of flipping a coin
+whimper.n: a complaint uttered in a plaintive whining way
+personality.n: the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual
+natural.a: in accordance with nature; relating to or concerning nature
+spit.v: expel or eject (saliva or phlegm or sputum) from the mouth
+hurry.n: a condition of urgency making it necessary to hurry
+inside.n: the region that is inside of something
+calm.n: steadiness of mind under stress
+watch.n: a small portable timepiece
+love.v: have a great affection or liking for
+smog.n: air pollution by a mixture of smoke and fog
+child.n: a young person of either sex
+doggy.n: informal terms for dogs
+Then.r: subsequently or soon afterward (often used as sentence connectors)
+sample.n: a small part of something intended as representative of the whole
+WOMAN.n: an adult female person (as opposed to a man)
+bullshit.n: obscene words for unacceptable behavior
+cheat.n: weedy annual grass often occurs in grainfields and other cultivated land; seeds sometimes considered poisonous
+picture.n: a visual representation (of an object or scene or person or abstraction) produced on a surface
+leaf.n: the main organ of photosynthesis and transpiration in higher plants
+cooler.n: a refrigerator for cooling liquids
+school.n: an educational institution
+certainly.r: definitely or positively (`sure' is sometimes used informally for `surely')
+cigarette.n: finely ground tobacco wrapped in paper; for smoking
+alone.r: without any others being included or involved
+beg.v: call upon in supplication; entreat
+cancer.n: any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream
+statistic.n: a datum that can be represented numerically
+good.a: having desirable or positive qualities especially those suitable for a thing specified
+care.n: the work of providing treatment for or attending to someone or something
+moral.n: the significance of a story or event
+light.n: (physics) electromagnetic radiation that can produce a visual sensation
+back.n: the posterior part of a human (or animal) body from the neck to the end of the spine
+music.n: an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner
+art.n: the products of human creativity; works of art collectively
+hate.v: dislike intensely; feel antipathy or aversion towards
+sad.a: experiencing or showing sorrow or unhappiness
+horn.n: a noisemaker (as at parties or games) that makes a loud noise when you blow through it
+family.n: a social unit living together
+strike.n: a group's refusal to work in protest against low pay or bad work conditions
+cut.v: separate with or as if with an instrument
+much.r: to a great degree or extent
+Thanks.n: an acknowledgment of appreciation
+juju.n: the power associated with a juju
+right.r: precisely, exactly
+left.n: location near or direction toward the left side; i.e. the side to the north when a person or object faces east
+Right.r: precisely, exactly
+sucker.n: a person who is gullible and easy to take advantage of
+honestly.r: (used as intensives reflecting the speaker's attitude) it is sincerely the case that
+put.v: put into a certain place or abstract location
+Put.v: put into a certain place or abstract location
+mural.a: of or relating to walls
+delight.n: a feeling of extreme pleasure or satisfaction
+law.n: the collection of rules imposed by authority
+guess.v: expect, believe, or suppose
+worth.a: worthy of being treated in a particular way
+blade.n: especially a leaf of grass or the broad portion of a leaf as distinct from the petiole
+modernist.n: an artist who makes a deliberate break with previous styles
+pet.v: stroke or caress gently
+past.a: earlier than the present time; no longer current
+tell.v: express in words
+clothes.n: clothing in general
+more.r: used to form the comparative of some adjectives and adverbs
+year.n: a period of time containing 365 (or 366) days
+drink.n: a single serving of a beverage
+stuff.n: the tangible substance that goes into the makeup of a physical object
+pretty.r: to a moderately sufficient extent or degree
+work.v: exert oneself by doing mental or physical work for a purpose or out of necessity
+expression.n: the feelings expressed on a person's face
+somewhere.r: in or at or to some place; (`someplace' is used informally for `somewhere')
+always.r: at all times; all the time and on every occasion
+first.r: before anything else
+back.r: in or to or toward a former location
+bust.n: a complete failure
+mental.a: involving the mind or an intellectual process
+cocksucker.n: a person who performs fellatio
+hour.n: a period of time equal to 1/24th of a day
+thud.n: a heavy dull sound (as made by impact of heavy objects)
+damage.n: the occurrence of a change for the worse
+imbalance.n: a lack of balance or state of disequilibrium
+kick.n: the act of delivering a blow with the foot
+sort.n: a category of things distinguished by some common characteristic or quality
+piss.n: liquid excretory product
+success.n: an event that accomplishes its intended purpose
+Not.r: negation of a word or group of words
+mistress.n: an adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man
+bathroom.n: a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet
+bottle.n: a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped
+danger.n: the condition of being susceptible to harm or injury
+spend.v: pass time in a specific way
+hold.v: keep in a certain state, position, or activity; e.g., "keep clean"
+blowing.n: processing that involves blowing a gas
+butterfly.n: diurnal insect typically having a slender body with knobbed antennae and broad colorful wings
+cut.n: a share of the profits
+men.n: the force of workers available
+indistinctly.r: in a dim indistinct manner
+there.r: in or at that place
+Here.r: in or at this place; where the speaker or writer is
+public.a: not private; open to or concerning the people as a whole
+foot.n: the part of the leg of a human being below the ankle joint
+found.v: set up or found
+effect.n: a phenomenon that follows and is caused by some previous phenomenon
+glad.a: showing or causing joy and pleasure; especially made happy
+again.r: anew
+sage.n: a mentor in spiritual and philosophical topics who is renowned for profound wisdom
+war.n: the waging of armed conflict against an enemy
+know.v: be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about
+show.v: give an exhibition of to an interested audience
+window.n: a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air
+happen.v: come to pass
+guest.n: a visitor to whom hospitality is extended
+beauty.n: the qualities that give pleasure to the senses
+professional.a: engaged in a profession or engaging in as a profession or means of livelihood
+chime.v: emit a sound
+preemptive.a: designed or having the power to deter or prevent an anticipated situation or occurrence
+question.n: an instance of questioning
+permission.n: approval to do something
+figure.v: judge to be probable
+clean.v: make clean by removing dirt, filth, or unwanted substances from
+shit.v: give away information about somebody
+deserve.v: be worthy or deserving
+supper.n: a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime
+hire.v: engage or hire for work
+prefer.v: like better; value more highly
+moralistic.a: narrowly and conventionally moral
+stair.n: support consisting of a place to rest the foot while ascending or descending a stairway
+fight.n: a hostile meeting of opposing military forces in the course of a war
+start.v: take the first step or steps in carrying out an action
+realtor.n: a real estate agent who is a member of the National Association of Realtors
+hell.n: any place of pain and turmoil; 
+choice.n: the person or thing chosen or selected
+creative.a: having the ability or power to create
+Sometimes.r: on certain occasions or in certain cases but not always; at other times for six months"
+distorted.a: so badly formed or out of shape as to be ugly
+wildly.r: to an extreme or greatly exaggerated degree
+handiwork.n: a work produced by hand labor
+say.v: express in words
+space.n: the unlimited expanse in which everything is located
+name.n: a language unit by which a person or thing is known
+narcissistic.a: characteristic of those having an inflated idea of their own importance
+just.r: and nothing more
+hard.r: with effort or force or vigor
+Maybe.r: by chance
+probably.r: with considerable certainty; without much doubt
+literally.r: in a literal sense
+kiss.n: the act of caressing with the lips (or an instance thereof)
+subtlety.n: a subtle difference in meaning or opinion or attitude
+forgive.v: stop blaming or grant forgiveness
+bullshit.v: speak insincerely or without regard for facts or truths
+much.a: (quantifier used with mass nouns) great in quantity or degree or extent
+now.r: in the historical present; at this point in the narration of a series of past events
+uniform.n: clothing of distinctive design worn by members of a particular group as a means of identification
+sick.n: people who are sick
+freeway.n: a broad highway designed for high-speed traffic
+call.v: assign a specified (usually proper) proper name to
+stink.v: be extremely bad in quality or in one's performance
+last.a: immediately past
+med.n: a master's degree in education
+voice.n: the distinctive quality or pitch or condition of a person's speech
+student.n: a learner who is enrolled in an educational institution
+place.n: a point located with respect to surface features of some region
+monster.n: an imaginary creature usually having various human and animal parts
+act.n: a legal document codifying the result of deliberations of a committee or society or legislative body
+dealer.n: someone who purchases and maintains an inventory of goods to be sold
+only.a: being the only one; single and isolated from others
+sensitivity.n: (physiology) responsiveness to external stimuli; the faculty of sensation
+kinky.a: (used of sexual behavior) showing or appealing to bizarre or deviant tastes
+funny.a: arousing or provoking laughter
+mind.v: be offended or bothered by; take offense with, be bothered by
+fear.n: an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+Watch.n: a small portable timepiece
+off.r: from a particular thing or place or position (`forth' is obsolete)
+DOCTOR.n: a licensed medical practitioner
+house.n: a dwelling that serves as living quarters for one or more families
+even.r: used as an intensive especially to indicate something unexpected
+babe.n: a very young child (birth to 1 year) who has not yet begun to walk or talk
+brain.n: that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord
+back.v: be behind; approve of
+dinner.n: the main meal of the day served in the evening or at midday
+body.n: the entire structure of an organism (an animal, plant, or human being)
+kitchen.n: a room equipped for preparing meals
+moan.n: an utterance expressing pain or disapproval
+shrink.v: wither, as with a loss of moisture
+next.a: immediately following in time or order
+Unbelievable.a: beyond belief or understanding
+sex.n: activities associated with sexual intercourse
+mother.n: a woman who has given birth to a child (also used as a term of address to your mother)
+creak.n: a squeaking sound
+be.v: have the quality of being; (copula, used with an adjective or a predicate noun)
+raccoon.n: the fur of the North American racoon
+laugh.n: the sound of laughing
+best.a: (superlative of `good') having the most positive qualities
+disclosure.n: the speech act of making something evident
+crumb.n: a very small quantity of something
+Student.n: a learner who is enrolled in an educational institution
+wallpaper.n: a decorative paper for the walls of rooms
+razor.n: edge tool used in shaving
+font.n: a specific size and style of type within a type family
+angry.a: feeling or showing anger
+inoperable.a: not able to perform its normal function
+ahead.r: at or in the front
+corpse.n: the dead body of a human being
+people.n: (plural) any group of human beings (men or women or children) collectively
+toss.v: throw or toss with a light motion
