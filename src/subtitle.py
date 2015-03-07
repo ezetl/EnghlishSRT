@@ -1,5 +1,6 @@
 import codecs
 from nltk.corpus import wordnet as wn
+from nltk.corpus.reader.wordnet import WordNetError
 from filter import DICT_FILENAME
 
 
@@ -24,9 +25,12 @@ class Subtitle(object):
         for l in self.lemmas:
             defs = []
             for lem in l:
-                key = lem[0]+'.'+lem[1]
-                value = wn.synset(lem[0]+'.'+lem[1]+'01').definition()
-                defs.append((key, value))
+                try:
+                    key = lem[0]+'.'+lem[1]
+                    value = wn.synset(lem[0]+'.'+lem[1]+'.01').definition()
+                    defs.append((key, value))
+                except WordNetError:
+                    continue
             self.new_defs.append(defs)
 
     def create_subtitle(self):

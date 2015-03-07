@@ -10,7 +10,8 @@ class Normalizer(object):
         self.words = []
         self.lemmas = []
         # this is useful to use wordnet later on
-        self.tags = {'ADJ':'a', 'ADV':'r', 'NOUN':'n', 'VERB':'v'}
+        # J-> adjective, R-> adverb, N-> noun, V-> verb
+        self.tags = {'J': 'a', 'R': 'r', 'N': 'n', 'V': 'v'}
 
     def tokenize(self, list_subs):
         for elem in list_subs:
@@ -26,7 +27,10 @@ class Normalizer(object):
         for elem in self.pos_tags:
             w = []
             for tag in elem:
-                if tag[1] in self.tags.keys():
+                # we only check the first letter of the tag
+                # the remaining letters are meaningless
+                # for our purposes
+                if tag[1][0] in self.tags.keys():
                     w.append(tag)
             self.words.append(w)
 
@@ -34,7 +38,8 @@ class Normalizer(object):
         for elem in self.words:
             lem = []
             for word in elem:
-                lem.append(self.lemmatizer.lemmatize(word[0]), tags[word[1]])
+                lem.append(self.lemmatizer.lemmatize(word[0]),
+                           self.tags[word[1][0]])
             self.lemmas.append(lem)
 
     def normalize(self, list_subs):
