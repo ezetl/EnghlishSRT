@@ -30,16 +30,19 @@ class Normalizer(object):
                 # we only check the first letter of the tag
                 # the remaining letters are meaningless
                 # for our purposes
-                if tag[1][0] in self.tags.keys():
-                    w.append(tag)
+                if tag[0] not in "%&'[]()!#$:;~{}|?-\/`.*+,.<=>@":
+                    if tag[1] not in ['NNP', 'NNPS']:
+                        if tag[1][0] in self.tags.keys():
+                            w.append(tag)
             self.words.append(w)
 
     def lemmatize(self):
         for elem in self.words:
             lem = []
             for word in elem:
-                lem.append(self.lemmatizer.lemmatize(word[0]),
-                           self.tags[word[1][0]])
+                if word:
+                    lem.append((self.lemmatizer.lemmatize(word[0]),
+                                self.tags[word[1][0]]))
             self.lemmas.append(lem)
 
     def normalize(self, list_subs):

@@ -21,6 +21,7 @@ class Filter(object):
             self.dict[k.strip()] = v.strip()
 
     def clean_lemmas(self, lemmas):
+        self.load_dict()
         self.lemmas = self.lemmas[:]
         keys = self.dict.keys()
         # lemmas is a list of lists of (lemma, pos_tag)
@@ -28,9 +29,12 @@ class Filter(object):
             final_lemmas = []
             for w in elem:
                 # example: cat.n, because cat is a Noun (n)
-                if w[0]+'.'+w[1] not in keys:
+                if w[0] and w[0]+'.'+w[1] not in keys:
                     final_lemmas.append(w)
             self.lemmas.append(final_lemmas)
 
     def get_final_lemmas(self):
         return self.lemmas
+
+    def get_dict(self):
+        return self.dict

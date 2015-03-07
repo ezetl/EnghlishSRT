@@ -39,8 +39,8 @@ class Subtitle(object):
         for i, elem in enumerate(self.indexes):
             s += elem + u'\r\n'
             s += self.times[i] + u'\r\n'
-            if self.defs[i]:
-                for d in self.defs[i]:
+            if self.new_defs[i]:
+                for d in self.new_defs[i]:
                     s += u'{\a10}' + d[0] + u' : ' + d[1] + u'\r\n'
             s += self.text[i] + u'\r\n\r\n'
 

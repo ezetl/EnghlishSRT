@@ -26,8 +26,9 @@ def main(in_subt, out_subt):
     normalizer.normalize(parser.get_text())
     lemma_filter.clean_lemmas(normalizer.get_lemmas())
 
-    new_sub = Subtitle(parser.get_times(), parser.get_text(),
-                       lemma_filter.get_final_lemmas(), out_subt)
+    new_sub = Subtitle(parser.get_indexes(), parser.get_times(),
+                       parser.get_text(), lemma_filter.get_final_lemmas(),
+                       lemma_filter.get_dict(), out_subt)
     new_sub.create_subtitle()
 
 
