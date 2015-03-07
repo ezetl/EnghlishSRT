@@ -21,9 +21,10 @@ class Parser(object):
         regex = re.compile(r'''(?P<index>\d+).*?(?P<times>\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3})\s*.*?\s*(?P<text>.*)''', re.DOTALL)
         for s in splits:
             r = regex.search(s)
-            self.index.append(r.group('index'))
-            self.times.append(r.group('times'))
-            self.text.append(r.group('text'))
+            if r:
+                self.index.append(r.group('index'))
+                self.times.append(r.group('times'))
+                self.text.append(r.group('text'))
 
     def get_times(self):
         return self.times

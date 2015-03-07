@@ -1,3 +1,5 @@
+- Avoid duplicates in the same frame (when a word appear twice in the same sentence)
+
 - Implement an alternate way of parsing srt (without regex).
 - Add option to put unknown definitions only once (the first appearance) or at every appearance of the word
 - Implement a better filter for words (current one not very clever I guess)

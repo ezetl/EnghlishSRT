@@ -39,10 +39,14 @@ class Normalizer(object):
     def lemmatize(self):
         for elem in self.words:
             lem = []
+            aux = []
             for word in elem:
+                # remove duplicates in the same sentence
                 if word:
-                    lem.append((self.lemmatizer.lemmatize(word[0]),
-                                self.tags[word[1][0]]))
+                    lemma = self.lemmatizer.lemmatize(word[0])
+                    if lemma not in aux:
+                        lem.append((lemma, self.tags[word[1][0]]))
+                        aux.append(lemma)
             self.lemmas.append(lem)
 
     def normalize(self, list_subs):
