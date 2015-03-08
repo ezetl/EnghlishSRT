@@ -3,6 +3,8 @@ from nltk.corpus import wordnet as wn
 from nltk.corpus.reader.wordnet import WordNetError
 from filter import DICT_FILENAME
 
+DICT_FILENAME = '../dict/new_words.dict'
+
 
 class Subtitle(object):
     """
@@ -56,6 +58,6 @@ class Subtitle(object):
             for k, v in elem:
                 self.dic[k] = v
 
-        with open(DICT_FILENAME, 'w') as f:
+        with open(DICT_FILENAME, 'a') as f:
             for elem in self.dic.keys():
                 f.write(elem + ': ' + self.dic[elem] + u'\r\n')
