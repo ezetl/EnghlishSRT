@@ -1,6 +1,6 @@
-- Add an option to save new words in another dictionary.
-- Append new words to existing dictionary, dont write it all again and again 
+- create a dictionary for each chapter/movie that was analyzed. Each time it has to load a dict, load it from every file in that folder.
 
+- Option: use a database for the dictionary?
+- concatenate ALL the subs, find the complete sentences and use WSD to get the right meaning (this adds complexity)
 - Implement an alternate way of parsing srt (without regex).
-- Add option to put unknown definitions only once (the first appearance) or at every appearance of the word
 - Implement a better filter for words (current one not very clever I guess)
